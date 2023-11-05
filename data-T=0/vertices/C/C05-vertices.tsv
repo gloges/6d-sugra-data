@@ -1,0 +1,6 @@
+vtx-C05-173-1-3	Δ = 173	bi.bi = 1	b0.bi = 3	14 x (irr-C5-10) + 2 x (irr-C5-44)
+vtx-C05-245-4-6	Δ = 245	bi.bi = 4	b0.bi = 6	8 x (irr-C5-10) + 5 x (irr-C5-44)
+vtx-C05-272-9-9	Δ = 272	bi.bi = 9	b0.bi = 9	3 x (irr-C5-10) + 3 x (irr-C5-44) + 1 x (irr-C5-55) + 1 x (irr-C5-110)
+vtx-C05-275-16-12	Δ = 275	bi.bi = 16	b0.bi = 12	3 x (irr-C5-55) + 1 x (irr-C5-165)
+vtx-C05-302-16-12	Δ = 302	bi.bi = 16	b0.bi = 12	6 x (irr-C5-10) + 3 x (irr-C5-55) + 2 x (irr-C5-132-h)
+vtx-C05-324-9-9	Δ = 324	bi.bi = 9	b0.bi = 9	17 x (irr-C5-10) + 2 x (irr-C5-44) + 1 x (irr-C5-55) + 1 x (irr-C5-132-h)
