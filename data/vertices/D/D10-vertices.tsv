@@ -1,0 +1,8 @@
+vtx-D10-0-0-0	Δ = 0	bi.bi = 0	b0.bi = 0	1 x (irr-D10-190)
+vtx-D10-50-n4-n2	Δ = 50	bi.bi = -4	b0.bi = -2	12 x (irr-D10-20)
+vtx-D10-275-16-12	Δ = 275	bi.bi = 16	b0.bi = 12	1 x (irr-D10-209) + 1 x (irr-D10-512-h)
+vtx-D10-526-20-18	Δ = 526	bi.bi = 20	b0.bi = 18	4 x (irr-D10-20) + 2 x (irr-D10-190) + 1 x (irr-D10-512-h)
+vtx-D10-576-16-16	Δ = 576	bi.bi = 16	b0.bi = 16	16 x (irr-D10-20) + 1 x (irr-D10-190) + 1 x (irr-D10-512-h)
+vtx-D10-626-12-14	Δ = 626	bi.bi = 12	b0.bi = 14	28 x (irr-D10-20) + 1 x (irr-D10-512-h)
+vtx-D10-801-36-30	Δ = 801	bi.bi = 36	b0.bi = 30	4 x (irr-D10-20) + 1 x (irr-D10-190) + 1 x (irr-D10-209) + 2 x (irr-D10-512-h)
+vtx-D10-851-32-28	Δ = 851	bi.bi = 32	b0.bi = 28	16 x (irr-D10-20) + 1 x (irr-D10-209) + 2 x (irr-D10-512-h)

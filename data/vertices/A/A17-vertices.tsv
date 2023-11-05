@@ -1,0 +1,8 @@
+vtx-A17-0-0-0	Δ = 0	bi.bi = 0	b0.bi = 0	1 x (irr-A17-323)
+vtx-A17-1-0-0	Δ = 1	bi.bi = 0	b0.bi = 0	1 x (irr-A17-153) + 1 x (irr-A17-171)
+vtx-A17-28-n1-n1	Δ = 28	bi.bi = -1	b0.bi = -1	10 x (irr-A17-18) + 1 x (irr-A17-171)
+vtx-A17-271-0-2	Δ = 271	bi.bi = 0	b0.bi = 2	16 x (irr-A17-18) + 2 x (irr-A17-153)
+vtx-A17-298-n1-1	Δ = 298	bi.bi = -1	b0.bi = 1	26 x (irr-A17-18) + 1 x (irr-A17-153)
+vtx-A17-325-n2-0	Δ = 325	bi.bi = -2	b0.bi = 0	36 x (irr-A17-18)
+vtx-A17-244-1-3	Δ = 244	bi.bi = 1	b0.bi = 3	6 x (irr-A17-18) + 3 x (irr-A17-153)
+vtx-A17-493-12-14	Δ = 493	bi.bi = 12	b0.bi = 14	1 x (irr-A17-816)

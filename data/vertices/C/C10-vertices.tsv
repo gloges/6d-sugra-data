@@ -1,0 +1,5 @@
+vtx-C10-0-0-0	Δ = 0	bi.bi = 0	b0.bi = 0	1 x (irr-C10-210)
+vtx-C10-299-0-2	Δ = 299	bi.bi = 0	b0.bi = 2	16 x (irr-C10-20) + 1 x (irr-C10-189)
+vtx-C10-350-n1-1	Δ = 350	bi.bi = -1	b0.bi = 1	28 x (irr-C10-20)
+vtx-C10-248-1-3	Δ = 248	bi.bi = 1	b0.bi = 3	4 x (irr-C10-20) + 2 x (irr-C10-189)
+vtx-C10-350-7-9	Δ = 350	bi.bi = 7	b0.bi = 9	1 x (irr-C10-1120-h)

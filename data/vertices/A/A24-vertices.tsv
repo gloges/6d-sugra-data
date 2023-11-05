@@ -1,0 +1,6 @@
+vtx-A24-0-0-0	Δ = 0	bi.bi = 0	b0.bi = 0	1 x (irr-A24-624)
+vtx-A24-1-0-0	Δ = 1	bi.bi = 0	b0.bi = 0	1 x (irr-A24-300) + 1 x (irr-A24-325)
+vtx-A24-126-n1-n1	Δ = 126	bi.bi = -1	b0.bi = -1	17 x (irr-A24-25) + 1 x (irr-A24-325)
+vtx-A24-376-0-2	Δ = 376	bi.bi = 0	b0.bi = 2	16 x (irr-A24-25) + 2 x (irr-A24-300)
+vtx-A24-501-n1-1	Δ = 501	bi.bi = -1	b0.bi = 1	33 x (irr-A24-25) + 1 x (irr-A24-300)
+vtx-A24-626-n2-0	Δ = 626	bi.bi = -2	b0.bi = 0	50 x (irr-A24-25)

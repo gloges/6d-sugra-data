@@ -1,0 +1,4 @@
+vtx-B10-0-0-0	Δ = 0	bi.bi = 0	b0.bi = 0	1 x (irr-B10-210)
+vtx-B10-63-n4-n2	Δ = 63	bi.bi = -4	b0.bi = -2	13 x (irr-B10-21)
+vtx-B10-805-36-30	Δ = 805	bi.bi = 36	b0.bi = 30	3 x (irr-B10-21) + 1 x (irr-B10-210) + 1 x (irr-B10-230) + 1 x (irr-B10-1024-h)
+vtx-B10-868-32-28	Δ = 868	bi.bi = 32	b0.bi = 28	16 x (irr-B10-21) + 1 x (irr-B10-230) + 1 x (irr-B10-1024-h)
